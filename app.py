@@ -5,21 +5,21 @@ import plotly.graph_objs as go
 
 ########### Define your variables ######
 
-myheading = "Baseball Stats from the 1950s"
-mytitle = "Batting Averages for 3 Hall of Famers"
-x_values = ['1954', '1955', '1956', '1957', '1958', '1959']
-y1_values = [345, 356, 345, 388, 328, 254]
-y2_values = [300, 306, 353, 365, 304, 285]
-y3_values = [280, 314, 328, 322, 326, 355]
+myheading = "Popularity of Coding Languages"
+mytitle = "Java vs Python vs C"
+x_values = ['1990', '1995', '2000', '2005', '2010', '2015']
+y1_values = [123, 150, 160, 200, 250, 270]
+y2_values = [56, 60, 62, 80, 100, 200]
+y3_values = [100, 100, 105, 110, 115, 120]
 color1 = '#fc9403'
 color2 = '#0307fc'
 color3 = '#9003fc'
-name1 = 'Ted Williams'
-name2 = 'Mickey Mantle'
-name3 = 'Hank Aaron'
-tabtitle = 'baseball'
-sourceurl = 'https://www.baseball-reference.com'
-githublink = 'https://github.com/austinlasseter/dash-linechart-example'
+name1 = 'Java'
+name2 = 'Python'
+name3 = 'C'
+tabtitle = 'Coding Languages'
+sourceurl = 'http://pypl.github.io/PYPL.html'
+githublink = 'https://github.com/nomsdoms/dash-linechart-example'
 
 ########### Set up the chart
 
