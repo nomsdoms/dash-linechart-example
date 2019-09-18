@@ -8,7 +8,7 @@ import plotly.graph_objs as go
 myheading = "Popularity of Coding Languages"
 mytitle = "Java vs Python vs C"
 x_values = ['1990', '1995', '2000', '2005', '2010', '2015']
-y1_values = [100, 100, 100, 100, 100, 100]
+y1_values = [100, 100, 100, 100, 100, 101]
 y2_values = [56, 60, 62, 80, 100, 200]
 y3_values = [100, 100, 105, 110, 115, 120]
 color1 = '#fc9403'
